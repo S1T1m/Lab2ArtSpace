@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+
+    <string name="next_button">Далее</string>
+    <string name="previous_button">Предыдущее</string>
+    <string name="cd_previous">Предыдущий экспонат</string>
+    <string name="cd_next">Следующий экспонат</string>
+
+    <string name="art1_title">Чёрный квадрат</string>
+    <string name="artist1_name">Казимир Малевич</string>
+    <string name="artwork1_year">1915</string>
+    <string name="artwork1_description">«Чёрный квадрат» написан Казимиром Малевичем в 1915 году.</string>
+
+    <string name="art2_title">Красный квадрат</string>
+    <string name="artist2_name">Казимир Малевич</string>
+    <string name="artwork2_year">1915</string>
+    <string name="artwork2_description">«Красный квадрат» написан Казимиром Малевичем в 1915 году.</string>
+
+    <string name="art3_title">Англичанин в Москве</string>
+    <string name="artist3_name">Казимир Малевич</string>
+    <string name="artwork3_year">1914</string>
+    <string name="artwork3_description">«Англичанин в Москве» написан Казимиром Малевичем в 1914 году.</string>
+
+    <string name="art4_title">Точильщик (Принцип мелькания)</string>
+    <string name="artist4_name">Казимир Малевич</string>
+    <string name="artwork4_year">1912–1913</string>
+    <string name="artwork4_description">«Точильщик (Принцип мелькания)» написан Казимиром Малевичем в 1912–1913 годах.</string>
+
+</resources>

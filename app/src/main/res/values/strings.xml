@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">ArtSpace</string>
+
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="cd_previous">Previous artwork</string>
+    <string name="cd_next">Next artwork</string>
+
+    <string name="art1_title">Black Square</string>
+    <string name="artist1_name">Kazimir Malevich</string>
+    <string name="artwork1_year">1915</string>
+    <string name="artwork1_description">The Black Square was painted by Kazimir Malevich in 1915.</string>
+
+    <string name="art2_title">Red Square</string>
+    <string name="artist2_name">Kazimir Malevich</string>
+    <string name="artwork2_year">1915</string>
+    <string name="artwork2_description">The Red Square was painted by Kazimir Malevich in 1915.</string>
+
+    <string name="art3_title">An Englishman in Moscow</string>
+    <string name="artist3_name">Kazimir Malevich</string>
+    <string name="artwork3_year">1914</string>
+    <string name="artwork3_description">An Englishman in Moscow was painted by Kazimir Malevich in 1914.</string>
+
+    <string name="art4_title">The Knifegrinder or Principle of Glittering</string>
+    <string name="artist4_name">Kazimir Malevich</string>
+    <string name="artwork4_year">1912–1913</string>
+    <string name="artwork4_description">The Knifegrinder or Principle of Glittering was painted by Kazimir Malevich in 1912–1913.</string>
 </resources>
